@@ -1,0 +1,4 @@
+[submodule "gatsby-intro"]
+	path = gatsby-intro
+	url = https://github.com/FrontendMasters/gatsby-intro
+	branch = master
